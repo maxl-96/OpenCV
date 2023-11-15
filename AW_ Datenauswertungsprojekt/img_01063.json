@@ -1,0 +1,214 @@
+{
+    "annotations": [
+        {
+            "file_name": "img_01063_merged.png",
+            "image_id": "img_01063",
+            "segments_info": [
+                {
+                    "area": 1781443,
+                    "bbox": [
+                        0,
+                        0,
+                        1599,
+                        1143
+                    ],
+                    "category_id": 0,
+                    "id": 0,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 6529,
+                    "bbox": [
+                        2,
+                        0,
+                        1597,
+                        1143
+                    ],
+                    "category_id": 2,
+                    "id": 2,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 701,
+                    "bbox": [
+                        592,
+                        57,
+                        402,
+                        1015
+                    ],
+                    "category_id": 3,
+                    "id": 3,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 6321,
+                    "bbox": [
+                        803,
+                        94,
+                        113,
+                        127
+                    ],
+                    "category_id": 5,
+                    "id": 5000,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 23302,
+                    "bbox": [
+                        703,
+                        220,
+                        266,
+                        289
+                    ],
+                    "category_id": 5,
+                    "id": 5001,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 19112,
+                    "bbox": [
+                        754,
+                        781,
+                        238,
+                        312
+                    ],
+                    "category_id": 5,
+                    "id": 5002,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 222,
+                    "bbox": [
+                        739,
+                        809,
+                        25,
+                        16
+                    ],
+                    "category_id": 5,
+                    "id": 5003,
+                    "iscrowd": 0
+                }
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "isthing": 0,
+            "name": "Erde",
+            "supercategory": "dead"
+        },
+        {
+            "color": [
+                10,
+                200,
+                0
+            ],
+            "id": 1,
+            "isthing": 0,
+            "name": "lebend org Masse",
+            "supercategory": "weed"
+        },
+        {
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "id": 2,
+            "isthing": 0,
+            "name": "tote org Masse",
+            "supercategory": "dead"
+        },
+        {
+            "color": [
+                0,
+                0,
+                200
+            ],
+            "id": 3,
+            "isthing": 0,
+            "name": "Steine",
+            "supercategory": "dead"
+        },
+        {
+            "color": [
+                100,
+                255,
+                0
+            ],
+            "id": 4,
+            "isthing": 1,
+            "name": "Mais",
+            "supercategory": "crop"
+        },
+        {
+            "color": [
+                240,
+                230,
+                140
+            ],
+            "id": 5,
+            "isthing": 1,
+            "name": "Zuckerruebe",
+            "supercategory": "crop"
+        },
+        {
+            "color": [
+                105,
+                139,
+                34
+            ],
+            "id": 6,
+            "isthing": 1,
+            "name": "Soja",
+            "supercategory": "crop"
+        },
+        {
+            "color": [
+                205,
+                149,
+                12
+            ],
+            "id": 7,
+            "isthing": 0,
+            "name": "Weizen",
+            "supercategory": "crop"
+        },
+        {
+            "color": [
+                255,
+                255,
+                0
+            ],
+            "id": 8,
+            "isthing": 1,
+            "name": "Sonnenblume",
+            "supercategory": "crop"
+        },
+        {
+            "color": [
+                255,
+                165,
+                0
+            ],
+            "id": 9,
+            "isthing": 1,
+            "name": "Kuerbis",
+            "supercategory": "crop"
+        }
+    ],
+    "images": [
+        {
+            "file_name": "img_01063.jpg",
+            "height": 1144,
+            "id": "img_01063",
+            "width": 1600
+        }
+    ]
+}
