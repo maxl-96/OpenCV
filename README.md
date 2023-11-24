@@ -1,5 +1,8 @@
 # OpenCV
 
+Wir brauchen für alles eine Semantische Maske nach den Labeln wie unten
+
+Für alle mit den Klassen wo "isthing": 1 --> eine zusätzliche Maske mit den IDs
 
 # classes
 
