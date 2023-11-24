@@ -18,3 +18,17 @@
     {"color": (106,  61, 154), "isthing": 1, "id": 11, "trainId": 11, "name": "Bohne"},
     {"color": (106,  61, 154), "isthing": 1, "id": 12, "trainId": 12, "name": "Kartoffel"},
     {"color": (106,  61, 154), "isthing": 1, "id": 13, "trainId": 13, "name": "Senf"},
+
+
+# hex IDs
+
+converts image id from rgb values to 1000 * class + id format
+
+h = 5002
+
+x = hex(h)
+
+decimal_number1 = int(x[4:], 16)
+decimal_number2 = int(x[:4], 16)
+
+print(decimal_number2, decimal_number1)
