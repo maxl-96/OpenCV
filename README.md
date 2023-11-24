@@ -35,3 +35,10 @@ decimal_number1 = int(x[4:], 16)
 decimal_number2 = int(x[:4], 16)
 
 print(decimal_number2, decimal_number1)
+
+
+# datasets
+
+ https://www.mdpi.com/1424-8220/23/5/2713
+ https://github.com/cropandweed/cropandweed-dataset
+ https://www.phenobench.org/
