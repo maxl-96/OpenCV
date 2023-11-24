@@ -13,7 +13,7 @@ Für alle mit den Klassen wo "isthing": 1 --> eine zusätzliche Maske mit den ID
     {"color": (31, 120, 180), "isthing": 1, "id": 4, "trainId": 4, "name": "Mais"},
     {"color": (227, 26, 28), "isthing": 1, "id": 5, "trainId": 5, "name": "Zuckerruebe"},
     {"color": (253, 191, 111), "isthing": 0, "id": 6, "trainId": 6, "name": "Soja"},
-    {"color": (255, 127, 0), "isthing": 1, "id": 7, "trainId": 7, "name": "Weizen"},
+    {"color": (255, 127, 0), "isthing": 0, "id": 7, "trainId": 7, "name": "Weizen"},
     {"color": (202, 178, 214), "isthing": 1, "id": 8, "trainId": 8, "name": "Sonnenblume"},
     {"color": (106, 61, 154), "isthing": 1, "id": 9, "trainId": 9, "name": "Kuerbis"},
 
